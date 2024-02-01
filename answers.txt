@@ -1,1 +1,2 @@
 1: In a non-agile project, the equivalent to the Product Owner woukd typically be the Product Manager. In Agile projectes, the Product Owner plays a critical role in defining and prioritizing the project's requirements and features.
+2: The Scrum Master focuses more on team dynamics, process adherence, and removing obstacles to enable the team's productivity. The Product Owner , on the other hand, concentrates on defining product requirements, prioritizing them based on business value, and ensuring the product akigns with the customer's needs and expectations.
