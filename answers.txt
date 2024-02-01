@@ -1,0 +1,1 @@
+1: In a non-agile project, the equivalent to the Product Owner woukd typically be the Product Manager. In Agile projectes, the Product Owner plays a critical role in defining and prioritizing the project's requirements and features.
